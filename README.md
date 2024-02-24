@@ -1,4 +1,4 @@
-<p float="center">
+<p align-itens='center'>
 
 # Releitura Flappy Bird com Python
   
