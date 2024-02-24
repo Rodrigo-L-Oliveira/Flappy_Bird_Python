@@ -11,9 +11,9 @@
 <img src='https://github.com/Rodrigo-L-Oliveira/Flappy_Bird_Python/assets/99633470/fbbd89de-36e1-484c-95d4-89c5a3b96b00' width="300"/>
 </div>
 
-#### A releitura do jogo foi criada utilizando a biblioteca pygame e conceitos de orientação a objeto em Python, utilizando da versão 3.12 da linguagem
+### A releitura do jogo foi criada utilizando a biblioteca pygame e conceitos de orientação a objeto em Python, utilizando da versão 3.12 da linguagem
 
-##### Comandos a serem executados no prompt de comando/cmd/terminal para baixar as bibliotecas e o código funcionar normalmente
+### Comandos a serem executados no prompt de comando/cmd/terminal para baixar as bibliotecas e o código funcionar normalmente
 
 Para que a assistente virtual ouça os comandos do usuário:
 `pip install pygame`
