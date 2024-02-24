@@ -26,5 +26,5 @@
   Links de referência:
 </h4>
 
-[Youtube](https://www.youtube.com/watch?v=WSPstecsF90&list=PLpdAy0tYrnKyVQDckS5IDB24QrSap2u8y&index=2)
+[Hastag Programação - Como criar jogos com Python](https://www.youtube.com/watch?v=WSPstecsF90&list=PLpdAy0tYrnKyVQDckS5IDB24QrSap2u8y&index=2)
   
