@@ -21,3 +21,9 @@
   `pip install pygame`
 </b>
 </p>
+
+<h4>
+  Links de referência:
+  [YouTube](https://www.youtube.com/watch?v=WSPstecsF90&list=PLpdAy0tYrnKyVQDckS5IDB24QrSap2u8y&index=2)
+  
+</h4>
