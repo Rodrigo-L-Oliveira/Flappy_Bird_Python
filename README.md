@@ -12,10 +12,12 @@
 </div>
 
 <p align='center'>
-A releitura do jogo foi criada utilizando a biblioteca pygame e conceitos de orientação a objeto em Python, utilizando da versão 3.12 da linguagem
+<b>
+  A releitura do jogo foi criada utilizando a biblioteca pygame e conceitos de orientação a objeto em Python, utilizando da versão 3.12 da linguagem
   
-Comandos a serem executados no prompt de comando/cmd/terminal para baixar as bibliotecas e o código funcionar normalmente
+  Comandos a serem executados no prompt de comando/cmd/terminal para baixar as bibliotecas e o código funcionar normalmente
 
-Biblioteca utilizada durante o projeto:
-`pip install pygame`
+  Biblioteca utilizada durante o projeto:
+  `pip install pygame`
+</b>
 </p>
