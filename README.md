@@ -1,6 +1,6 @@
 # Releitura Flappy Bird com Python
 <div align='center'>
-<img src='(https://github.com/Rodrigo-L-Oliveira/Flappy_Bird_Python/assets/99633470/a1a52b5d-d072-48f5-abdf-65ce497a7720'/>
+<img src='https://github.com/Rodrigo-L-Oliveira/Flappy_Bird_Python/assets/99633470/a1a52b5d-d072-48f5-abdf-65ce497a7720'/>
 </div>
 
 ## Olá! Esta é uma releitura do tradicional jogo Flappy Bird criada como parte do projeto IA-Flappy Bird.
