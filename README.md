@@ -15,6 +15,9 @@ Aqui deixei o jogo base para quem quiser poder baixar e jogar diretamente da pr�
 <img src='https://github.com/Rodrigo-L-Oliveira/Flappy_Bird_Python/assets/99633470/fbbd89de-36e1-484c-95d4-89c5a3b96b00' width="300"/>
 </div>
 
+<br>
+<br>
+
 <p align='center'>
 <b>
   A releitura do jogo foi criada utilizando a biblioteca pygame e conceitos de orientação a objeto em Python, utilizando da versão 3.12 da linguagem
