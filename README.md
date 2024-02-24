@@ -1,5 +1,7 @@
 # Releitura Flappy Bird com Python
-<p float="left">
+
+<p float="center">
+  
 <div align='center'>
 <img src='https://github.com/Rodrigo-L-Oliveira/Flappy_Bird_Python/assets/99633470/a1a52b5d-d072-48f5-abdf-65ce497a7720' width="300"/>
 </div>
@@ -17,4 +19,5 @@
 
 Para que a assistente virtual ouça os comandos do usuário:
 `pip install pygame`
+
 </p>
