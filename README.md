@@ -4,8 +4,11 @@
 <img src='https://github.com/Rodrigo-L-Oliveira/Flappy_Bird_Python/assets/99633470/a1a52b5d-d072-48f5-abdf-65ce497a7720' width="300"/>
 </div>
 
-<h2 align="center"> Olá! Esta é uma releitura do tradicional jogo Flappy Bird criada como parte do projeto IA-Flappy Bird. </h2>
-<h2 align="center"> Aqui deixei o jogo base para quem quiser poder baixar e jogar diretamente da própria máquina </h2>
+<h2 align="center"> 
+Olá! Esta é uma releitura do tradicional jogo Flappy Bird criada como parte do projeto IA-Flappy Bird.
+<br>
+Aqui deixei o jogo base para quem quiser poder baixar e jogar diretamente da própria máquina
+</h2>
 
 <div align='center'>
 <img src='https://github.com/Rodrigo-L-Oliveira/Flappy_Bird_Python/assets/99633470/fbbd89de-36e1-484c-95d4-89c5a3b96b00' width="300"/>
