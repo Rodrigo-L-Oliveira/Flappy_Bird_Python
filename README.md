@@ -7,6 +7,7 @@
 <h2 align="center"> 
 Olá! Esta é uma releitura do tradicional jogo Flappy Bird criada como parte do projeto IA-Flappy Bird.
 <br>
+<br>
 Aqui deixei o jogo base para quem quiser poder baixar e jogar diretamente da própria máquina
 </h2>
 
